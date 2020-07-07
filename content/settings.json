@@ -1,22 +1,23 @@
 {
-  "store_id": 1124,
-  "name": "kantodoartista",
   "domain": "kantodoartista.netlify.app",
-  "short_name": "kantodoartista",
-  "description": "REVENDA SOMENTE DE PRODUTOS ORIGINAIS E LACRADOS",
-  "primary_color": "#9a6a40",
-  "secondary_color": "#757575",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f1592a",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-1-.jpg",
+  "name": "kantodoartista",
+  "short_name": "kantodoartista",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon-1-.png",
+  "country_code": "BR",
+  "secondary_color": "#454545",
+  "icon": "/img/uploads/logo-1-.jpg",
+  "store_id": 1124,
+  "description": "REVENDA SOMENTE DE PRODUTOS ORIGINAIS E LACRADOS",
+  "large_icon": "/img/uploads/logo-1-.jpg"
 }
