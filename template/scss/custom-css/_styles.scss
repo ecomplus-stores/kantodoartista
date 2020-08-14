@@ -1,1 +1,17 @@
 // Add your custom CSS here.
+#product .prices__installments:after {
+    content: " no cartão de crédito";
+    font-weight: bold
+  }
+ #product .prices__discount small {
+    display: none
+ }
+#product .prices__discount span:before {
+    content: "ou";
+    font-weight: normal
+ }
+#product .prices__discount span:after {
+    content: "no boleto";
+    font-weight: normal
+ }
+
