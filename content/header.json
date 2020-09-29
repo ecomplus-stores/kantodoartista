@@ -22,7 +22,7 @@
       "/dvds?DVD"
     ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
