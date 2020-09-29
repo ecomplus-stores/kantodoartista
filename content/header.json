@@ -13,7 +13,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cinema-filmes-series-de-tv?CINEMA-FILMES-SÉRIES DE TV",
+      "/vinil?VINIL",
+      "/pre-venda?PRÉ-VENDA ",
+      "/catalogo?CATÁLOGO",
+      "/cd?CD",
+      "/dvds?DVD"
+    ],
     "random": 6,
     "full_width": false
   },
