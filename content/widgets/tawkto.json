@@ -5,7 +5,7 @@
   "enableCheckout": true,
   "options": {
     "tawktoPropertyId": "5c35891812db2461b16b4dd2",
-    "tawktoChatWidget": "Olá, Tudo bem? Pode descrever a sua dúvida ou solicitação, assim que possível retornaremos."
+    "tawktoChatWidget": "Olá, Bem Vindo (a) ao nosso Kanto, você está online e nós estamos aqui para atendê-lo. Como podemos ajudar?"
   },
   "bodyAppend": "src/append/body"
 }
