@@ -3,6 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
+  "disablePages": true,
   "options": {
     "tawktoPropertyId": "5c35891812db2461b16b4dd2",
     "tawktoChatWidget": "Olá, Bem Vindo (a) ao nosso Kanto, você está online e nós estamos aqui para atendê-lo. Como podemos ajudar?"
