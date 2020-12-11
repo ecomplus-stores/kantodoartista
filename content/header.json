@@ -16,10 +16,11 @@
     "featured": [
       "/cinema-filmes-series-de-tv?CINEMA-FILMES-SÉRIES DE TV",
       "/vinil?VINIL",
-      "/pre-venda?PRÉ-VENDA ",
+      "/raridades?RARIDADES",
       "/catalogo?CATÁLOGO",
       "/cd?CD",
-      "/dvds?DVD"
+      "/dvds?DVD",
+      "/adicionados-recentemente?ADICIONADOS RECENTEMENTE"
     ],
     "random": 6,
     "full_width": true
