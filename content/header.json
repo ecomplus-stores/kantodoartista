@@ -14,12 +14,12 @@
   },
   "categories_list": {
     "featured": [
-      "/cinema-filmes-series-de-tv?CINEMA-FILMES-SÉRIES DE TV",
-      "/vinil?VINIL",
-      "/raridades?RARIDADES",
-      "/catalogo?CATÁLOGO",
       "/cd?CD",
-      "/dvds?DVD"
+      "/dvds?DVD",
+      "/vinil?VINIL",
+      "/blu-ray?BLU-RAY",
+      "/pre-venda?PRÉ-VENDA",
+      "/lancamentos?LANÇAMENTOS"
     ],
     "random": 6,
     "full_width": true
