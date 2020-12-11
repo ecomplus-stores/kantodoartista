@@ -19,8 +19,7 @@
       "/raridades?RARIDADES",
       "/catalogo?CATÁLOGO",
       "/cd?CD",
-      "/dvds?DVD",
-      "/adicionados-recentemente?ADICIONADOS RECENTEMENTE"
+      "/dvds?DVD"
     ],
     "random": 6,
     "full_width": true
