@@ -19,7 +19,8 @@
       "/vinil?VINIL",
       "/blu-ray?BLU-RAY",
       "/pre-venda?PRÉ-VENDA",
-      "/lancamentos?LANÇAMENTOS"
+      "/lancamentos?LANÇAMENTOS",
+      "/vestuario?VESTUÁRIO"
     ],
     "random": 6,
     "full_width": true
