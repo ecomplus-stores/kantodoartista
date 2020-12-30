@@ -14,11 +14,7 @@
   },
   "categories_list": {
     "featured": [
-      "/cd?CD",
-      "/dvds?DVD",
-      "/vinil?VINIL",
-      "/blu-ray?BLU-RAY",
-      "/lancamentos?LANÇAMENTOS",
+      "/artista?ARTISTA",
       "/vestuario?VESTUÁRIO"
     ],
     "random": 6,
