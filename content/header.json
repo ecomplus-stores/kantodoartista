@@ -17,7 +17,7 @@
       "/artista?ARTISTA",
       "/vestuario?VESTUÁRIO"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
   "search_input": true
