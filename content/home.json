@@ -21,6 +21,13 @@
       "page": 1,
       "collection_id": "5f0cdb6414ff772fde7fb108:categories:CD:/cd",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f0cdb5f14ff772fde7fb100:categories:PRÉ-VENDA :/pre-venda"
     }
   ]
 }
