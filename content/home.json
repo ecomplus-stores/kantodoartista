@@ -11,7 +11,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f0cdb6314ff772fde7fb106:categories:CATÁLOGO:/catalogo",
-      "sort": null,
+      "sort": "slug",
       "headless": false
     },
     {
@@ -19,12 +19,12 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f0cdb6414ff772fde7fb108:categories:CD:/cd",
-      "sort": "sales"
+      "collection_id": "5f0cdb6714ff772fde7fb111:categories:VINIL:/vinil",
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "5f0cdb5f14ff772fde7fb100:categories:PRÉ-VENDA :/pre-venda"
