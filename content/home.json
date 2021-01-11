@@ -19,7 +19,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "5ffb8af169274c73fcf3386d:collections:IRON MAIDEN:/ironmaiden",
+      "collection_id": null,
       "sort": "slug"
     },
     {
