@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b16a9c6f5676bcc8c065079df79efdee.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.711e7f83cdfc0b45dc756ee50e6939e9.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.5c1d7856932f7741bfa1e374428edd00.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.6a7af8ba482b2e29bd0f30587fea2e51.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.bb7ae1861383542f7ac0fd31ea1c3aff.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "kantodoartista",
+  "short_name": "kantodoartista",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "REVENDA SOMENTE DE PRODUTOS ORIGINAIS E LACRADOS",
+  "background_color": "#ffffff",
+  "theme_color": "#f1592a"
+}
