@@ -14,9 +14,8 @@
   },
   "categories_list": {
     "featured": [
-      "/artista?ARTISTA",
       "/vestuario?VESTUÁRIO",
-      "/ironmaiden?IRON MAIDEN"
+      "/artista?ARTISTA"
     ],
     "random": 6,
     "full_width": true
