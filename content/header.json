@@ -9,7 +9,18 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/clube-sertanejo/?CLUBE SERTANEJO",
+      "/ofertas/?OFERTAS ",
+      "/card-games/? CARD GAMES",
+      "/u_10071/?CD",
+      "/dvd/?DVD",
+      "/u_10072/?BLU-RAY",
+      "/vinil/?VINIL",
+      "/filmes/?FILMES",
+      "/catalogo/?CATÁLOGO",
+      "/pre-venda/?PRÉ-VENDA "
+    ],
     "random": 6,
     "full_width": false
   },
