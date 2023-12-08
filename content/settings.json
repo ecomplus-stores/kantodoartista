@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/kantodoartista",
-  "logo": "/img/uploads/logo-1-.jpg",
+  "logo": "/img/uploads/logo.png",
   "name": "kantodoartista",
   "short_name": "kantodoartista",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/logo-1-.jpg",
+  "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/logo-1-.jpg",
+  "icon": "/img/uploads/logo.png",
   "store_id": 1124,
   "description": "REVENDA SOMENTE DE PRODUTOS ORIGINAIS E LACRADOS\nFormas de pagamento:\n\nCartão ou boleto via MercadoPago",
-  "large_icon": "/img/uploads/logo-1-.jpg"
+  "large_icon": "/img/uploads/logo.png"
 }
