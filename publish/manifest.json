@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b9f047e57c929df01b004f00a82c861f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e376de4694284aa62abc2a74e4efae2f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6bd05e065778c7cff3de96df022a7d1b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d185d1685ffa8a03258f561b82703bb3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.cd027b93a20dd8210f24ff00bde9cbe2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "kantodoartista",
+  "short_name": "kantodoartista",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "REVENDA SOMENTE DE PRODUTOS ORIGINAIS E LACRADOS\nFormas de pagamento:\n\nCartão ou boleto via MercadoPago",
+  "background_color": "#ffffff",
+  "theme_color": "#f5572c"
+}
