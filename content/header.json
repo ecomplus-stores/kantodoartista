@@ -10,6 +10,7 @@
   },
   "categories_list": {
     "featured": [
+      "/pre-venda/?PRÉ-VENDA ",
       "/clube-sertanejo/?CLUBE SERTANEJO",
       "/ofertas/?OFERTAS ",
       "/card-games/? CARD GAMES",
@@ -18,8 +19,7 @@
       "/u_10072/?BLU-RAY",
       "/vinil/?VINIL",
       "/filmes/?FILMES",
-      "/catalogo/?CATÁLOGO",
-      "/pre-venda/?PRÉ-VENDA "
+      "/catalogo/?CATÁLOGO"
     ],
     "random": 6,
     "full_width": false
