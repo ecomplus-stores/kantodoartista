@@ -33,6 +33,14 @@
       "limit": 12,
       "collection_id": "6570f26b2cd6b65959d048d2:categories:CATÁLOGO:/catalogo/",
       "sort": "slug"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner_ava-max-diamonds-and-dancefloors-_1280x256_pos.jpg"
+        }
+      ]
     }
   ]
 }
