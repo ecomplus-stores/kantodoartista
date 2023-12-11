@@ -27,10 +27,10 @@
       "page": 1,
       "title": "PRÉ-VENDA",
       "shuffle": true,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "PRÉ-VENDA",
-      "limit": 12,
+      "limit": 24,
       "collection_id": "6570f26b2cd6b65959d048d2:categories:CATÁLOGO:/catalogo/",
       "sort": "slug"
     },
