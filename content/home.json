@@ -23,18 +23,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner_ava-max-diamonds-and-dancefloors-_1280x256_pos.jpg"
-        },
-        {
-          "img": "/img/uploads/banner_laura-pausine.jpg",
-          "link": "https://kantodoartista.netlify.app/search?term=LAURA+PAUSINI"
-        }
-      ]
-    },
-    {
       "autoplay": 2000,
       "page": 1,
       "title": "LP VINIL",
@@ -63,6 +51,18 @@
       "sort": "sales",
       "title": "CATÁLOGO",
       "autoplay": 1000
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner_ava-max-diamonds-and-dancefloors-_1280x256_pos.jpg"
+        },
+        {
+          "img": "/img/uploads/banner_laura-pausine.jpg",
+          "link": "https://kantodoartista.netlify.app/search?term=LAURA+PAUSINI"
+        }
+      ]
     }
   ]
 }
