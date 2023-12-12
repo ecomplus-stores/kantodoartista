@@ -35,16 +35,16 @@
       ]
     },
     {
-      "autoplay": 2000,
+      "autoplay": 0,
       "page": 1,
       "title": " CATÁLOGO",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "PRÉ-VENDA",
+      "link": "CATÁLOGO",
       "limit": 24,
       "collection_id": "6570f26b2cd6b65959d048d2:categories:CATÁLOGO:/catalogo/",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
