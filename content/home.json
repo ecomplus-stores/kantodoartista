@@ -36,11 +36,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 24,
       "page": 1,
-      "autoplay": 1000,
-      "collection_id": "6570f26a2cd6b65959d048d0:categories:PRÉ-VENDA :/pre-venda/"
+      "autoplay": 2000,
+      "collection_id": "6570f26a2cd6b65959d048d0:categories:PRÉ-VENDA :/pre-venda/",
+      "sort": "news",
+      "title": "PRÉ-VENDA"
     },
     {
       "type": "collection-shelf",
