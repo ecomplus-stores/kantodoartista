@@ -58,7 +58,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_ava-max-diamonds-and-dancefloors-_1280x256_pos.jpg"
+          "img": "/img/uploads/banner_ava-max-diamonds-and-dancefloors-_1280x256_pos.jpg",
+          "link": "https://www.kantodoartista.com.br/search?term=AVA+"
         },
         {
           "img": "/img/uploads/banner_laura-pausine.jpg",
