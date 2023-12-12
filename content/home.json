@@ -35,7 +35,7 @@
       ]
     },
     {
-      "autoplay": 0,
+      "autoplay": 1000,
       "page": 1,
       "title": "LP VINIL",
       "shuffle": true,
