@@ -37,13 +37,13 @@
     {
       "autoplay": 0,
       "page": 1,
-      "title": " CATÁLOGO",
+      "title": "LP VINIL",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "CATÁLOGO",
+      "link": "VINIL",
       "limit": 24,
-      "collection_id": "6570f26b2cd6b65959d048d2:categories:CATÁLOGO:/catalogo/",
+      "collection_id": "6570f26e2cd6b65959d048da:categories:VINIL:/vinil/",
       "sort": "views"
     },
     {
