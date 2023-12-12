@@ -52,7 +52,7 @@
       "collection_id": "6570f26b2cd6b65959d048d2:categories:CATÁLOGO:/catalogo/",
       "sort": "sales",
       "title": "CATÁLOGO",
-      "autoplay": 1000
+      "autoplay": 3000
     },
     {
       "type": "banners-grid",
