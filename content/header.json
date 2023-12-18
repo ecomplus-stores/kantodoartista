@@ -1,13 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": "ZEZÉ DI CAMARGO - RÚSTICO",
-    "link": "https://kantodoartista.netlify.app/search?term=R%C3%9ASTICO"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [
       "/pre-venda/?PRÉ-VENDA ",
@@ -22,8 +13,18 @@
     "full_width": true
   },
   "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
+  "marketing_stripe": {
+    "text": "ZEZÉ DI CAMARGO - RÚSTICO",
+    "link": "https://kantodoartista.netlify.app/search?term=R%C3%9ASTICO"
+  },
   "alphabetical_order_submenu": true,
-  "full_width_submenu": false
+  "popup": "/img/uploads/cf03969b-3b61-45bb-9a4d-37163b41844a-02.jpeg",
+  "search_input": true,
+  "desktop_megamenu": false,
+  "full_width_submenu": false,
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": true
+  }
 }
