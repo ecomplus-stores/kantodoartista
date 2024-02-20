@@ -35,7 +35,8 @@
     "elo": true,
     "amex": true,
     "hipercard": true,
-    "boleto": true
+    "boleto": true,
+    "itau": true
   },
   "credits": ""
 }
