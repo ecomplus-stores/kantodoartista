@@ -18,21 +18,17 @@
       "enabled": true
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Produtos Relacionados"
     },
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
