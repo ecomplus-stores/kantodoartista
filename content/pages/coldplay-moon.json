@@ -1,6 +1,6 @@
 {
   "title": "COLDPLAY MOON",
-  "body": "<product-card :product-id=\"6571204b2cd6b65959d0a8dd\">\n\nTESTE\n  <template #buy>\n    <button\n      type=\"button\"\n      class=\"product-card__custom-buy\">\n      COMPRAR\n    </button>\n  </template>\n</product-card>",
+  "body": "<div class=\"product-card\" data-product-id=\"660038d308d55b3b783eb7df\" data-sku=\"RGR2764\" data-to-render=\"true\"><div data-slot=\"stamps\"></div><a href=\"/cordas-violao-giannini-canario-aco-cbolinha---geswb\" class=\"product-card__link\" title=\"CORDAS VIOLÃO GIANNINI CANÁRIO AÇO C/BOLINHA - GESWB\"><div class=\"product-card__pictures\"><picture class=\"product-card__picture\"><img data-src=\"https://ecoms1.com/1124/imgs/normal/@v3/1711290542556-cordaguitarr.jpg.avif\" alt=\"corda guitarr\" class=\"lozad-delay fade\" crossorigin=\"anonymous\"></picture></div><div data-slot=\"title\"><h3 class=\"product-card__name\">CORDAS VIOLÃO GIANNINI CANÁRIO AÇO C/BOLINHA - GESWB</h3></div></a><div class=\"product-card__prices prices\"><strong class=\"prices__value\">R$ 18,77</strong><button type=\"button\" class=\"btn btn-primary btn-block\"><!----><i class=\"i-shopping-bag mr-1\"></i> Comprar </button></div><div class=\"spinner-border spinner-border-sm fade\" role=\"status\"><span class=\"sr-only\">Loading...</span></div></div></div>",
   "meta_title": "COLDPLAY MOON",
   "meta_description": "COLDPLAY MOON",
   "sections": []
