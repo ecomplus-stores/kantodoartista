@@ -8,6 +8,10 @@
     "title": "Páginas",
     "list": [
       {
+        "text": "SOBRE A KANTO",
+        "url": "https://www.kantodoartista.com.br/pages/sobre-nos"
+      },
+      {
         "text": "CONTATO",
         "url": "https://www.kantodoartista.com.br/pages/contato"
       },
@@ -26,10 +30,6 @@
       {
         "text": "POLITICA DE PRIVACIDADE",
         "url": "https://www.kantodoartista.com.br/pages/privacidade"
-      },
-      {
-        "text": "SOBRE A KANTO",
-        "url": "https://www.kantodoartista.com.br/pages/sobre-nos"
       },
       {
         "text": "TERMOS DE SERVIÇO",
