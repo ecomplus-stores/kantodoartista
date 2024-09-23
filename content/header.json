@@ -2,13 +2,13 @@
   "categories_list": {
     "featured": [
       "/pre-venda/?PRÉ-VENDA ",
+      "/lancamentos?LANÇAMENTOS",
       "/u_10071/?CD",
       "/dvd/?DVD",
       "/u_10072/?BLU-RAY",
       "/vinil/?VINIL",
       "/filmes/?FILMES",
-      "/catalogo/?CATÁLOGO",
-      "/lancamentos?LANÇAMENTOS"
+      "/catalogo/?CATÁLOGO"
     ],
     "random": 6,
     "full_width": true
