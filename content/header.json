@@ -7,7 +7,8 @@
       "/u_10072/?BLU-RAY",
       "/vinil/?VINIL",
       "/filmes/?FILMES",
-      "/catalogo/?CATÁLOGO"
+      "/catalogo/?CATÁLOGO",
+      "/lancamentos?LANÇAMENTOS"
     ],
     "random": 6,
     "full_width": true
