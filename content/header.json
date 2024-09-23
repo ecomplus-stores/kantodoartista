@@ -10,7 +10,7 @@
       "/filmes/?FILMES",
       "/catalogo/?CATÁLOGO"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": true
   },
   "centralized_logo": false,
