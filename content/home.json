@@ -28,6 +28,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/charli.png",
+          "link": "https://www.kantodoartista.com.br/search?term=brat"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/richie-kotzen.png",
           "link": "https://www.kantodoartista.com.br/cd-adriansmith-richiekotzen---black-light"
         },
@@ -48,12 +54,6 @@
           "end": "",
           "img": "/img/uploads/pop.png",
           "link": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/charli.png",
-          "link": "https://www.kantodoartista.com.br/search?term=brat"
         },
         {
           "start": "",
