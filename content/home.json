@@ -16,18 +16,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/coldplay-moon.png",
-          "link": "https://www.kantodoartista.com.br/search?term=numerado"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2-rose.png",
-          "link": "https://www.kantodoartista.com.br/cd-rose---rosie---jewel-case-version"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/charli.png",
           "link": "https://www.kantodoartista.com.br/search?term=brat"
         },
@@ -48,12 +36,6 @@
           "end": "",
           "img": "/img/uploads/pantera.png",
           "link": "https://www.kantodoartista.com.br/search?term=pantera"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pop.png",
-          "link": ""
         }
       ]
     },
