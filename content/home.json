@@ -10,6 +10,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/joao.png",
+          "link": "https://www.kantodoartista.com.br/cd-joao-bosco---boca-cheia-de-frutas"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/linkin-park.png",
           "link": "https://www.kantodoartista.com.br/cd-linkin-park---from-zero"
         },
@@ -54,12 +60,6 @@
           "end": "",
           "img": "/img/uploads/pop.png",
           "link": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/joao.png",
-          "link": "https://www.kantodoartista.com.br/cd-joao-bosco---boca-cheia-de-frutas"
         }
       ]
     },
