@@ -4,25 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 8000,
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/joao.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/charli.png",
-          "link": "https://www.kantodoartista.com.br/search?term=brat"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pantera.png",
-          "link": "https://www.kantodoartista.com.br/search?term=pantera"
+          "img": "/img/uploads/joao.png",
+          "link": "https://www.kantodoartista.com.br/cd-joao-bosco---boca-cheia-de-frutas"
         },
         {
           "start": "",
@@ -33,19 +22,22 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/deep.png"
+          "img": "/img/uploads/charli.png",
+          "link": "https://www.kantodoartista.com.br/search?term=brat"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/deep.png",
+          "link": "https://www.kantodoartista.com.br/cd-deep-purple---in-rock-25th-anniversary-edition"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pantera.png",
+          "link": "https://www.kantodoartista.com.br/search?term=pantera"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "autoplay": 2000,
-      "collection_id": "6570f26a2cd6b65959d048d0:categories:PRÉ-VENDA :/pre-venda/",
-      "sort": "news",
-      "title": "PRÉ-VENDA"
     },
     {
       "autoplay": 2000,
@@ -58,6 +50,16 @@
       "limit": 24,
       "collection_id": "6570f26e2cd6b65959d048da:categories:VINIL:/vinil/",
       "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "autoplay": 2000,
+      "collection_id": "6570f26a2cd6b65959d048d0:categories:PRÉ-VENDA :/pre-venda/",
+      "sort": "news",
+      "title": "PRÉ-VENDA"
     },
     {
       "type": "collection-shelf",
