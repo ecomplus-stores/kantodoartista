@@ -38,6 +38,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "autoplay": 2000,
+      "collection_id": "6570f26a2cd6b65959d048d0:categories:PRÉ-VENDA :/pre-venda/",
+      "sort": "news",
+      "title": "PRÉ-VENDA"
+    },
+    {
       "autoplay": 2000,
       "page": 1,
       "title": "LP VINIL",
@@ -58,16 +68,6 @@
       "sort": "sales",
       "title": "CATÁLOGO",
       "autoplay": 3000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "autoplay": 2000,
-      "collection_id": "6570f26a2cd6b65959d048d0:categories:PRÉ-VENDA :/pre-venda/",
-      "sort": "news",
-      "title": "PRÉ-VENDA"
     },
     {
       "type": "banners-grid",
