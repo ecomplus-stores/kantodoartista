@@ -3,6 +3,18 @@
   "meta_description": "",
   "sections": [
     {
+      "autoplay": 2000,
+      "page": 1,
+      "title": "LP VINIL",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "VINIL",
+      "limit": 24,
+      "collection_id": "6570f26e2cd6b65959d048da:categories:VINIL:/vinil/",
+      "sort": "views"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -36,18 +48,6 @@
           "img": "/img/uploads/deep.png"
         }
       ]
-    },
-    {
-      "autoplay": 2000,
-      "page": 1,
-      "title": "LP VINIL",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "VINIL",
-      "limit": 24,
-      "collection_id": "6570f26e2cd6b65959d048da:categories:VINIL:/vinil/",
-      "sort": "views"
     },
     {
       "type": "collection-shelf",
