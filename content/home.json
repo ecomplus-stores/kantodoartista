@@ -3,43 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/richie-kotzen.png",
-          "link": "https://www.kantodoartista.com.br/cd-adriansmith-richiekotzen---black-light"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/charli.png",
-          "link": "https://www.kantodoartista.com.br/search?term=brat"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/deep.png",
-          "link": "https://www.kantodoartista.com.br/cd-deep-purple---in-rock-25th-anniversary-edition"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pantera.png",
-          "link": "https://www.kantodoartista.com.br/search?term=pantera"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/joao.png",
-          "link": "https://www.kantodoartista.com.br/cd-joao-bosco---boca-cheia-de-frutas"
-        }
-      ]
-    },
-    {
       "autoplay": 2000,
       "page": 1,
       "title": "LP VINIL",
