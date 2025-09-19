@@ -9,9 +9,10 @@
       "/vinil/?VINIL",
       "/filmes/?FILMES",
       "/catalogo/?CATÁLOGO",
-      "/proximos-lancamentos---em-breve-inicio-da-pre-venda?EM BREVE"
+      "/proximos-lancamentos---em-breve-inicio-da-pre-venda?EM BREVE",
+      "/toca-discos?TOCA-DISCOS"
     ],
-    "random": 0,
+    "random": 1,
     "full_width": true
   },
   "centralized_logo": false,
