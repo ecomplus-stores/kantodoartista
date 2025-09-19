@@ -1,6 +1,7 @@
 {
   "categories_list": {
     "featured": [
+      "/toca-discos?TOCA-DISCOS",
       "/pre-venda?PRÉ-VENDA",
       "/lancamentos?LANÇAMENTOS",
       "/u_10071/?CD",
@@ -9,8 +10,7 @@
       "/vinil/?VINIL",
       "/filmes/?FILMES",
       "/catalogo/?CATÁLOGO",
-      "/proximos-lancamentos---em-breve-inicio-da-pre-venda?EM BREVE",
-      "/toca-discos?TOCA-DISCOS"
+      "/proximos-lancamentos---em-breve-inicio-da-pre-venda?EM BREVE"
     ],
     "random": 1,
     "full_width": true
