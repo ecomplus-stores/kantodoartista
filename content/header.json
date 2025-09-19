@@ -8,11 +8,9 @@
       "/dvd/?DVD",
       "/u_10072/?BLU-RAY",
       "/vinil/?VINIL",
-      "/filmes/?FILMES",
-      "/catalogo/?CATÁLOGO",
-      "/proximos-lancamentos---em-breve-inicio-da-pre-venda?EM BREVE"
+      "/filmes/?FILMES"
     ],
-    "random": 1,
+    "random": 9,
     "full_width": true
   },
   "centralized_logo": false,
