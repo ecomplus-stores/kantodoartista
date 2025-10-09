@@ -1,1 +1,12 @@
 // Add your custom CSS here.
+.prices__value::after {
+  content: "6x sem juros"; 
+  display: block; /* força a quebra de linha */
+  font-size: 12px; 
+  margin-top: 4px; /* dá um espacinho entre o preço e o texto */
+  color: #666; /* opcional, deixa o texto mais suave */
+}
+
+.product-card__prices .prices__discount {
+  display: none;
+}
