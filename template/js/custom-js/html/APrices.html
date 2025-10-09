@@ -84,14 +84,3 @@
     </div>
   </transition-group>
 </div>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Aguarda um tempo para o Vue renderizar o preço
-    setTimeout(function() {
-      document.querySelectorAll('.prices__installments').forEach(function(el) {
-        el.innerHTML = el.innerHTML.replace(/\d+x/, '6x');
-      });
-    }, 500);
-  });
-</script>
-
