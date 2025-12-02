@@ -65,10 +65,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 0,
       "collection_id": "66f1b5c59e4b2e07f516d24a:categories:LANÇAMENTOS:/lancamentos",
       "sort": "sales",
-      "title": "TOCA-DISCOS  & VITROLAS",
+      "title": "TOCA-DISCOS & VITROLAS",
       "autoplay": 3000
     },
     {
